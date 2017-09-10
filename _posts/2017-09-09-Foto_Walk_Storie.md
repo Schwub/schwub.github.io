@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Foto Walk Storie"
+title: "Photo Walk Storie"
 author: "Michael Schwab"
-tags: [fotos, bci, irland]
+tags: [fotos, irland]
 image:
  feature: /Foto_Walk_Storie/DSCN5878.JPG
  teaser: /Foto_Walk_Storie/DSCN5878.JPG
